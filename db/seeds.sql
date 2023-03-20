@@ -15,12 +15,12 @@ VALUES
     ('Legal Team Lead', 250000, 4),
     ('Lawyer', 200000, 4);
 INSERT INTO employees (first_name, last_name, role_id, manager_id)
-VALUES 
+VALUES
     ('John', 'Doe', 1, NULL),
-    ('Jane', 'Doh', 2, 1),
-    ('Jawn', 'Son', 3, NULL),
-    ('Jane', 'Dawes', 4, 3),
-    ('John', 'Dough', 5, NULL),
-    ('Janet', 'Dove', 6, 5),
-    ('Jon', 'Smith', 7, NULL),
-    ('James', 'Smythe', 8, 7);
+    ('Jane', 'Doe', 2, 1),
+    ('John', 'Smith', 3, NULL),
+    ('Jane', 'Smith', 4, 3),
+    ('John', 'Doe', 5, NULL),
+    ('Jane', 'Doe', 6, 5),
+    ('John', 'Smith', 7, NULL),
+    ('Jane', 'Smith', 8, 7);
