@@ -4,9 +4,9 @@
 This is a Node.js/Express.js based Employee Database that allows you to view and manage the employees/roles/salaries within a company.
 
 ## User Story
-`AS A business owner   
-I WANT to be able to view and manage the departments, roles, and employees in my company   
-SO THAT I can organize and plan my business`   
+`AS A business owner`   
+`I WANT to be able to view and manage the departments, roles, and employees in my company`   
+`SO THAT I can organize and plan my business`   
 
 ## Video
 [![Employee Tracker (Database) video](https://i.ibb.co/x3RL1kM/Screenshot-2023-03-20-at-10-59-54-PM.png 'Video of Employee Tracker (Database) application')](https://drive.google.com/file/d/1aEWi_43CG8N9WAFPgyJRdkYJDjtJVU4g/view)   
